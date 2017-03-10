@@ -1,0 +1,3 @@
+[submodule "ethel"]
+	path = ethel
+	url = https://github.com/tanfengshuang/ethel.git
